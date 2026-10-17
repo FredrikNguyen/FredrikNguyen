@@ -11,6 +11,17 @@ This is where I share some of the things I've built and experimented with.
 **[Telecom RAG](https://github.com/fredrik-nguyen-labs/Telecom-RAG)** · [Live demo ↗](https://telecom.fnsystems.dev)  
 A 5G network diagnostics assistant that combines real radio measurements, technical documents, and AI-generated answers with citations.
 
+### Games & competitions
+
+**[Florent Code League — Autonomous Battle Bot](https://github.com/FredrikNguyen/FlorentCodeLeague)** · [Competition website ↗](https://code.florent.vc/)  
+A Python bot for a competitive grid-based strategy game. It manages resources, builds defenses and logistics networks, and coordinates units to attack the opposing Core.
+
+<a href="https://github.com/FredrikNguyen/FlorentCodeLeague">
+  <img src="https://code.florent.vc/media/game-clash.jpg" alt="Florent Code League official gameplay screenshot showing both teams' bots and conveyor lines clashing on the map" width="680" />
+</a>
+
+<sub>Official Florent Code League gameplay image — not a replay of my own bot.</sub>
+
 ### Machine learning & research
 
 **[One-Step Flow Matching for Channel Estimation](https://github.com/FredrikNguyen/Channel-Estimation-via-One-Step-Flow-Matching-Based-Generative-Models)**  
