@@ -1,6 +1,6 @@
 # Hey, I'm Fredrik 👋
 
-I studied at **KTH** and currently do **AI research at Huawei R&D**.
+I studied **Machine Learning (MSc)** and **Engineering Physics (BSc)** at **KTH**, and currently do **AI research at Huawei R&D**.
 
 This is where I share some of the things I've built and experimented with.
 
