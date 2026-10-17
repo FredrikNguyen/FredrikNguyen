@@ -27,4 +27,4 @@ Comparing deep learning approaches to speech emotion recognition.
 
 ## More projects
 
-I also build things over at **[Fredrik Nguyen Labs](https://github.com/fredrik-nguyen-labs)** — [browse the public repositories ↗](https://github.com/orgs/fredrik-nguyen-labs/repositories).
+I also build things over at **[Fredrik Nguyen Labs](https://github.com/fredrik-nguyen-labs)** — [browse the public repositories ↗](https://github.com/fredrik-nguyen-labs?tab=repositories).
