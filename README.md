@@ -8,13 +8,11 @@ This is where I share some of the things I've built and experimented with.
 
 ### Apps & tools
 
+**[TheTraveler](https://thetraveler-app.onrender.com/)** · [Live web app ↗](https://thetraveler-app.onrender.com/)  
+A mobile-first, context-aware city companion for deciding what to do next. Discover nearby places, events, and short plans based on your mood, location, time, and preferences.
+
 **[Telecom RAG](https://github.com/fredrik-nguyen-labs/Telecom-RAG)** · [Live demo ↗](https://telecom.fnsystems.dev)  
 A 5G network diagnostics assistant that combines real radio measurements, technical documents, and AI-generated answers with citations.
-
-### Games & competitions
-
-**[Florent Code League — Autonomous Battle Bot](https://github.com/FredrikNguyen/FlorentCodeLeague)** · [Competition website ↗](https://code.florent.vc/)  
-A Python bot for a competitive grid-based strategy game. It manages resources, builds defenses and logistics networks, and coordinates units to attack the opposing Core.
 
 ### Machine learning & research
 
@@ -30,10 +28,19 @@ Using U-Net to identify roads in aerial imagery.
 **[Audio Emotion Classification](https://github.com/FredrikNguyen/Comparative-Analysis-of-Deep-Learning-Architectures-for-Emotion-Classification-in-Audio)**  
 Comparing deep learning approaches to speech emotion recognition.
 
-## Miscellaneous projects
+**[Question Word Predictor](https://github.com/FredrikNguyen/Question-Word-Predictor-Project)**  
+Comparing BERT and random forest models for predicting question words.
 
-- **[Image Processing](https://github.com/FredrikNguyen/Image-processing)** — Python utilities for resizing, rotation, blurring, sharpening, and edge detection.
-- **[Question Word Predictor](https://github.com/FredrikNguyen/Question-Word-Predictor-Project)** — Exploring BERT and random forests for predicting question words.
+### Miscellaneous projects
+
+**[Florent Code League — Autonomous Battle Bot](https://github.com/FredrikNguyen/FlorentCodeLeague)** · [Competition website ↗](https://code.florent.vc/)  
+A Python bot for a competitive grid-based strategy game. It manages resources, builds defenses and logistics networks, and coordinates units to attack the opposing Core.
+
+**[Image Processing](https://github.com/FredrikNguyen/Image-processing)**  
+A small Python library for resizing, rotation, blurring, sharpening, and edge detection.
+
+**[Bachelor's Thesis — Galois Theory](https://github.com/FredrikNguyen/Bachelor-Thesis)**  
+An exploration of the unsolvability of the general quintic polynomial using Galois theory.
 
 ## More projects
 
